@@ -1,4 +1,4 @@
-# Demonstrating Web-Socket, gRPC, and https communcation with AWS Application Load Balancer.
+# Web-Socket, gRPC, and https communcation using an AWS Application Load Balancer.
 
 ![GitHub Logo](/images/arch.png)
 
