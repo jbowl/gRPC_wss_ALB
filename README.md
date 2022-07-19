@@ -1,4 +1,4 @@
-# Web-Socket, gRPC, and https through an AWS Application Load Balancer.
+# WebSocket, gRPC, and https <br> through an AWS Application Load Balancer
 
 ![GitHub Logo](/images/arch.png)
 
