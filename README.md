@@ -7,6 +7,7 @@ https://breweries.jbowl.dev <br>
 https://github.com/jbowl/ws   websocket, gRPC client <br>
 https://github.com/jbowl/brewery    gRPC streaming server <br>
 https://github.com/jbowl/hodlmybeer  JSON/http server <br>
+https://github.com/jbowl/envoy-sidecar  re-establish TLS from LB to VPC<br>
 ![GitHub Logo](/images/breweries.png)
 
 <br>
